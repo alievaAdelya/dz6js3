@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "title": "macbook",
+        "price": "12.000",
+        "memory": "9999",
+        "image": "https://im9.bloha.ru/2019/07/Apple-ubila-12-dyuymovyy-MacBook-2.jpg?x10609",
+        "category": "as",
+        "id": 2
+      },
+      {
+        "title": "Часы",
+        "price": "19000",
+        "memory": "0",
+        "image": "https://avatars.mds.yandex.net/get-yabs_performance/1038718/2a000001828000f04aae2622056838713cce/huge",
+        "category": "Часы",
+        "id": 3
+      },
+      {
+        "title": "PC",
+        "price": "100.000",
+        "memory": "0",
+        "image": "https://avatars.mds.yandex.net/i?id=c0d9e7965dca6d359255882803c4998c-5700188-images-thumbs&n=13",
+        "category": "PC",
+        "id": 4
+      },
+      {
+        "title": "Iphone",
+        "price": "100000000",
+        "memory": "0",
+        "image": "https://avatars.mds.yandex.net/i?id=57a2043687ae62fcd4b6100b64c93347-5878076-images-thumbs&n=13",
+        "category": "Iphone",
+        "id": 5
+      }
+    ]
+  }
